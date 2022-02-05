@@ -3,7 +3,9 @@
   <br>
   
 <!--Vilu/visvs's Views here-->
- 
+ <img src="https://gpvc.arturio.dev/vivs" alt="Views" align='right'/> <a href="https://github.com/visvs/visvs"> </a> 
+
+  
 <!-- Source of -> https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering;Web+Developer;Never%20stop%20learning%20&font=Fira%20Code&center=true&width=415&height=60&color=B000B9&vCenter=true&size=25"></a>
