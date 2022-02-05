@@ -15,12 +15,45 @@ I am a Computer Systems Engineering student. I am enthusiastic, I love to learn 
 
 <h2> 🧠 My Stack </h2>
 <h3>👩🏻‍💻 Programming languages</h3>
+<p>
+  <img width="40" alt="CSS" src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
+  <img width="40" alt="Google App Script" src="https://cdn-icons-png.flaticon.com/512/5968/5968494.png">
+  <img width="40" alt="HTML" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
+  <img width="40" alt="Java" src="https://cdn-icons-png.flaticon.com/512/919/919854.png">
+  <img width="40" alt="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img width="40" alt="Node.js" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
+</p>
+
 
 <h3> 🗄️ Databases and Hosting</h3>
 
+<p>
+  <img width="40" alt="Heroku" src="https://cdn-icons-png.flaticon.com/512/873/873120.png">
+  <img width="40" alt="MariaDB" src="./assets/mariadb.png">
+  <img width="40" alt="MySQL" src="./assets/mysql.png">
+  <img width="40" alt="MongoDB" src="./assets/mognodb.png">
+  <img width="40" alt="Glitch" src="./assets/glitch.png">
+  <img width="40" alt="FireBase" src="./assets/firebase.png">
+</p>
+
 <h3> 💻 Software and Tools</h3>
 
+<p>
+  <img width="40" alt="VSCode" src="https://cdn-icons-png.flaticon.com/512/906/906324.png">
+  <img width="40" alt="JetBrains" src="./assets/jetbrains.png">
+  <img width="40" alt="Git" src="./assets/git.png">
+  <img width="40" alt="PostMan" src="./assets/postman.png">
+
+</p>
+
 <h3> ✍🏻 Frameworks and Libraries</h3>
+
+<p>
+  <img width="40" alt="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
+  <img width="40" alt="Electron" src="./assets/electron.png">
+  <img width="40" alt="Express" src="./assets/express.png">
+  <img width="40" alt="Sass" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
+</p>
 
 <h2> 🦄 Github stats </h2>
 
