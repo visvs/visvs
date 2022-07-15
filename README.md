@@ -3,7 +3,7 @@
   <br>
   
 <!--Vilu/visvs's Views here-->
- <img src="https://gpvc.arturio.dev/vivs" alt="Views" align='right'/> <a href="https://github.com/visvs/visvs"> </a> 
+ <!-- <img src="https://gpvc.arturio.dev/vivs" alt="Views" align='right'/> <a href="https://github.com/visvs/visvs"> </a> -->
 
   
 <!-- Source of -> https://github.com/DenverCoder1/readme-typing-svg -->
