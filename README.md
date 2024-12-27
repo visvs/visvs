@@ -12,7 +12,7 @@
 </p></h1>
  
 <samp>
-I am a Computer Systems Engineering student. I am enthusiastic, I love to learn and create new things, with interests mainly focused on web development 💻
+I am a web developer with over 2 years of experience specializing in front-end development using technologies like React.js, Node.js, and React Native. I am passionate about continuous learning and embracing new challenges that drive my professional and personal growth. I am committed to delivering high-quality code, collaborating effectively within teams, and adapting quickly to dynamic environments.
 </samp>
 
 <h2> 🧠 My Stack </h2>
